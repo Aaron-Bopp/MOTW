@@ -1,4 +1,6 @@
-
+---
+tag: basic
+---
 When everyone has introduced their hunters, you’ll each take another turn, this time picking “History.” That’s the significant shared memories, or relationships, between [[the hunters]]. Each playbook has a list to choose from.
 
 Select one of the hunter players to start. This starting player picks a history option from the list for each other hunter in the group. [[Many]] of these options require some additional detail. Sometimes the history choice will tell you who decides on the detail. If not, just work it out between you. [[The Keeper]] or the other hunters might ask questions here as well. Answer these, too.

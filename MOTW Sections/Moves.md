@@ -1,4 +1,6 @@
-
+---
+tag: basic
+---
 Moves cover situations when the game rules step in to help you determine what happens. If your hunter wants to do something that any normal person can do, then it just happens. Moves are used to determine what happens in cases where your hunter tries to do:
 
 - something normal people can’t do, such as casting a [[magic]] spell

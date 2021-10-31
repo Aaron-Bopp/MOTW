@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "410268c909a7ff11",
+        "id": "9d4f71582a3edb06",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Moves/Hunter Moves/Absolute Badass.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"act under pressure\"",
+                "query": "tag:#Monstrous/Curse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +70,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moves/Hunter Moves/Absolute Badass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moves/Hunter Moves/Absolute Badass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "410268c909a7ff11",
+  "active": "9d4f71582a3edb06",
   "lastOpenFiles": [
-    "Moves/Hunter Moves/Absolute Badass.md",
-    "Moves/Ratings/Cool.md",
-    "Moves/Basic moves/Alternate Weird Moves/Illuminated.md",
-    "Moves/Basic moves/Help Out.md",
-    "Moves/Basic moves/Act Under Pressure.md",
-    "Characters/Skylar.md",
-    "Moves/Basic moves/Kick Some Ass.md",
-    "Classes/The Searcher.md",
-    "Weapon Properties/intimate.md",
-    "MOTWHierarchy.md"
+    "Moves/Hunter Moves/Whatever.md",
+    "Weapon Properties/hand.md",
+    "Weapon Properties/close.md",
+    "MOTW Sections/Gear.md",
+    "MOTW Sections/History.md",
+    "MOTW Sections/The Hunters.md",
+    "MOTW Sections/Monsters.md",
+    "MOTW Sections/The Keeper.md",
+    "Moves/Ratings/Weird.md",
+    "MOTW Sections/Moves.md"
   ]
 }

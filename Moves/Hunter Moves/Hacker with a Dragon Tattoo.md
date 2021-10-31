@@ -1,5 +1,6 @@
 ---
 base class: [[The Gumshoe]]
+tags: move/theGumshoe
 ---
 When you hack into a computer system, roll +[[Sharp]]. On 10+ pick two, on a 7-9 pick one:
 -  You leave no traces. 

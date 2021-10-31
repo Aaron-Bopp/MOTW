@@ -1,5 +1,6 @@
 ---
 base class: [[The Spooky]]
+tags: move/theSpooky
 ---
 When you cast a spell (with **[[Use Magic]]**), as well as the normal effects, you may pick from the following:   - The target contracts a disease.
   - The target immediately suffers [[harm]] (2-[[harm]] [[magic]] [[ignore-armour]]).

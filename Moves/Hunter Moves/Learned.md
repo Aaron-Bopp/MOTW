@@ -1,5 +1,6 @@
 ---
 base class: [[The Exile]]
+tags: move/theExile
 ---
  You researched all the legends and tales of [[monsters]] in your home time. When you [[investigate a mystery]] , you can ask [[the Keeper]] following questions as well as the ones on the usual list: 
 - Did this creature (or type) exist in my home time? 

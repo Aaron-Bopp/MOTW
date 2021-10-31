@@ -1,5 +1,6 @@
 ---
 base class: [[The Gumshoe]]
+tags: move/theGumshoe
 ---
 When you double-talk your way into a secure location, roll +[[Charm]].    -  On a 10+ pick three, on a 7-9 pick two, on a fail pick one:
         -  You don’t leave any trace of what you searched. 

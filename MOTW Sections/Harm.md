@@ -1,3 +1,6 @@
+---
+tag: basic
+---
 # When [[The Hunters]] takes harm
 When you take harm, [[the Keeper]] will tell you what happened and how [[many]] points of harm it was. Mark off that number of boxes on your harm track. There will be an additional effect: [[the Keeper]] will tell you what it is.
 

@@ -1,5 +1,6 @@
 ---
 base class: [[The Professional]]
+tags: move/theProfessional
 date updated: Sunday, September 19th 2021, 10:59:59 pm
 ---
 

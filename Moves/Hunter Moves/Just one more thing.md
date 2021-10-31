@@ -1,5 +1,6 @@
 ---
 base class: [[The Gumshoe]]
+tags: move/theGumshoe
 ---
 When you ask a suspect leading questions, roll +[[Charm]]. On a 10+ [[hold]] 2, on a 7-9 [[hold]] 1, on a miss [[hold]] 1 but something bad is going to happen too.
 Spend your [[hold]] to ask questions from this list:

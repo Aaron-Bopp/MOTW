@@ -1,5 +1,6 @@
 ---
 base class: [[The Pararomantic]]
+tags: move/thePararomantic
 ---
  You have a (most likely [[intimate]]) connection to some supernatural being who is your guide into the world beyond. Choose if your relationship is secret or not.
 Determine what kind of creature your Guide is and how your relationship works. Say what kind of power they possess. [[The Keeper]] will decide how it works and define your Guide as a threat.

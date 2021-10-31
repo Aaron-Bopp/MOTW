@@ -1,4 +1,6 @@
-
+---
+tag: basic
+---
 For your monster, it’s best to start with something from folklore or urban legend (there’s plenty of online sources for this: I use [Wikipedia](http://www.wikipedia.org/) as my starting point). Working from established folklore means everyone will have a general idea about what the monster is capable of (once they work out what it is).
 
 If you don’t want to take a creature from folklore or urban legend as the basis of your mystery, here are some other good sources:

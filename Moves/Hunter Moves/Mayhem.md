@@ -1,5 +1,6 @@
 ---
 base class: [[The Summoned]]
+tags: move/theSummoned
 ---
  When you grab a nearby large object and use it as an improvised weapon, first determine how much damage it will do. Guidelines:
  

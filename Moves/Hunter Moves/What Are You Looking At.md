@@ -1,5 +1,6 @@
 ---
 base class: [[The Summoned]]
+tags: move/theSummoned
 ---
  When you talk to a monster capable of reason and speech, it recognizes you (and your potential). If you ask it what it knows, pick one for [[the Keeper]] to reveal:
 - Tell me something about where I’m from.
