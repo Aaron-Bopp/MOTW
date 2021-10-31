@@ -8,7 +8,7 @@ Mark [[luck]] to change a roll to 12 or avoid all [[harm]] from an injury.
 
  Okay [ ][ ][ ][ ][ ][ ][ ] Doomed 
 
-**Snoop special** : Whenever you spend a [[Luck]] point, you’re going to have technical difficulties. Breakdowns, communication problems, [[weird]] noises in the recordings, etc. 
+**Snoop special** : Whenever you spend a [[Luck]] point, you’re going to have technical difficulties. Breakdowns, communication problems, [[Weird]] noises in the recordings, etc. 
 
 ## Harm 
 
@@ -34,9 +34,9 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 ## SHARP 
 
-- [[Investigate a Mystery]] 
+- [[Investigate A Mystery]] 
 
-- [[Read a Bad Situation]] 
+- [[Read A Bad Situation]] 
 
 ## TOUGH 
 

@@ -34,9 +34,9 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 ## SHARP 
 
-- [[Investigate a Mystery]] 
+- [[Investigate A Mystery]] 
 
-- [[Read a Bad Situation]] 
+- [[Read A Bad Situation]] 
 
 ## TOUGH 
 

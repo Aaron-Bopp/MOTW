@@ -7,8 +7,11 @@
         "id": "410268c909a7ff11",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "MOTWHierarchy.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"act under pressure\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MOTWHierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,14 +78,41 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "aa7326bd0133e02c",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a47cc41b1b157b1",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "410268c909a7ff11",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "MOTWHierarchy.md",
+    "Table of Contents.md",
+    "Solutions for Solo Gaming.md",
+    "README.md",
+    "Moves/Mayhem.md",
+    "Moves/Hearty constitution.md",
+    "Moves/Dark Master.md",
+    "Moves/Dark Negotiator.md",
+    "Moves/Confused.md",
+    "Moves/Ratings/Charm.md"
+  ]
 }

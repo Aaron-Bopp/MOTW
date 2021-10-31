@@ -1,6 +1,6 @@
 ## Telekinesis
 
-When you **fling something with your mind**, roll [[+Weird]]:
+When you **fling something with your mind**, roll [[Weird]]:
 
 - On a *10+*, you move it. Choose two options and mark 1-[[harm]].
 - On a *7-9*, you move it but it hurts. Choose one option and mark 2-[[harm]].

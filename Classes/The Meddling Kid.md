@@ -34,9 +34,9 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 ## SHARP 
 
-- [[Investigate a Mystery]] 
+- [[Investigate A Mystery]] 
 
-- [[Read a Bad Situation]] 
+- [[Read A Bad Situation]] 
 
 ## TOUGH 
 
@@ -70,7 +70,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 - The trap may be re-set and re-used later (you’ll     need to roll the move again when you do so,     with +1 [[forward]]). 
 
 
- - **Tell Me The Truth!**: When you are questioning somebody to [[investigate a mystery]], you may add these questions to the list you may choose to ask: 
+ - **Tell Me The Truth!**: When you are questioning somebody to [[Investigate A Mystery]], you may add these questions to the list you may choose to ask: 
 
 - Who has something to gain from this situation? 
 

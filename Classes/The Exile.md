@@ -125,5 +125,5 @@ You were taken from your home in the past, and dropped into the modern world wit
 
 ## Advanced Improvements 
 
- b Get +1 to any rating, max +3 b Change this hunter to a new type b Create a second hunter to play as well as this one b Mark two of the basic [[moves]] as advanced b Mark another two of the basic [[moves]] as advanced b Retire this hunter to safety b Get back one used [[Luck]] point b When you [[use magic]] , you may choose “create a gateway between the modern world and my origin” as an effect 
+ b Get +1 to any rating, max +3 b Change this hunter to a new type b Create a second hunter to play as well as this one b Mark two of the basic [[moves]] as advanced b Mark another two of the basic [[moves]] as advanced b Retire this hunter to safety b Get back one used [[Luck]] point b When you [[Use Magic]] , you may choose “create a gateway between the modern world and my origin” as an effect 
 

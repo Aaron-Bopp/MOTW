@@ -1,6 +1,6 @@
 ### How it works
 
-- roll [[+Sharp]].
+- roll [[Sharp]].
     - On a 10+ [[hold]] 3
     - on a 7-9, [[hold]] 1
     - One [[hold]] can be spent to ask [[the Keeper]] one of the following questions:

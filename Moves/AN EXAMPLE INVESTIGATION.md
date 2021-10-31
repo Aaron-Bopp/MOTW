@@ -18,7 +18,7 @@ The investigation:
 
 **Mary** (speaking as Mark): *“So, what did the witness have to say about the attacker? I’m interested in anything, even if it’s kinda weird.”*
 
-**Alan:** *Okay, roll* ***[[investigate a mystery]]*** *for me.*
+**Alan:** *Okay, roll* ***[[Investigate A Mystery]]*** *for me.*
 
 *Mary rolls the dice and adds Mark’s Sharp.*
 

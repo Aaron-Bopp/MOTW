@@ -1,6 +1,6 @@
 ## No Limits
 
-When you **push your physical body past its limits**, roll [[+Weird]]:
+When you **push your physical body past its limits**, roll [[Weird]]:
 
 - On a *10+*, your body obeys your will, to the limits of physical possibility (see below), for a moment.
 - On a *7-9*, you do it but choose one consequence: suffer 1-[[harm]], take –1 [[forward]], or you need to rest right now.

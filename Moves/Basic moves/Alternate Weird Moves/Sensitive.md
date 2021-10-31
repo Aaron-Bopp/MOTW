@@ -1,6 +1,6 @@
 ## Sensitive
 
-When you **open up your brain to the psychic environment**, roll [[+Weird]]: 
+When you **open up your brain to the psychic environment**, roll [[Weird]]: 
 - On a *10+*, you gain a definite impression (a vision, tangible aura, overheard thought, etc) about something important. 
 - On a *7-9*, you gain a hazy impression about something important. 
 - On a *6-*, your brain makes contact with something dangerous. **Advanced Sensitive .** When you advance your **sensitive** move, add this: 

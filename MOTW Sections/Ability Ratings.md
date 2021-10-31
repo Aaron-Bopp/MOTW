@@ -6,11 +6,11 @@ aliases:
 ---
 Your hunter has ratings that describe how good they are in certain areas that are important when hunting [[monsters]]. The ratings add to (or subtract from) your dice total when you roll for a move.
 
-- ![[+Cool]]
-- ![[+Tough]]
-- ![[+Charm]]
-- ![[+Sharp]]
-- ![[+Weird]]
+- ![[Cool]]
+- ![[Tough]]
+- ![[Charm]]
+- ![[Sharp]]
+- ![[Weird]]
 
 The ratings range from -1 to +3.
 

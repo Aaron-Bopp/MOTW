@@ -4,7 +4,7 @@ date updated: Sunday, September 19th 2021, 3:08:57 pm
 
 ### How it works
 
-- roll *[[+Sharp]]* when investigating a mystery
+- roll *[[Sharp]]* when investigating a mystery
     - On a *10+* [[hold]] 2
     - On a *7-9* [[hold]] 1
     - Use [[hold]] to ask the following questions ^68a031

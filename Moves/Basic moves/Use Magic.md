@@ -1,5 +1,5 @@
 ### How it works
-When you **use magic**, say what you’re trying to achieve and how you do the spell, then roll [[+Weird]].
+When you **use magic**, say what you’re trying to achieve and how you do the spell, then roll [[Weird]].
 
 - If you get a 10+, the magic works without issues: choose your effect.
 - On a 7-9, it works imperfectly: choose your effect and a glitch. [[The Keeper]] will decide what effect the glitch has.
@@ -37,7 +37,7 @@ Glitches:
 - You need one or two people to help cast the spell.
 - You need to refer to a tome of magic for the details.
 
-Magic, by its nature, breaks the rules.  If you want to do magic that goes beyond these effects, it counts as **[[big magic]]**. [[Big magic]] uses different rules, described below.
+Magic, by its nature, breaks the rules.  If you want to do magic that goes beyond these effects, it counts as **[[Big Magic]]**. [[Big Magic]] uses different rules, described below.
 
 When a hunter **uses magic**, it’s important to ask them what they’re trying to do (and work out which of the effects they are trying for). Ask the hunter how they cast the spell, and what it looks like too.
 
@@ -67,6 +67,6 @@ For a more super-heroic game, going ‘beyond human limitations’ might include
 
 So, when a hunter wants to exceed human limitations, think carefully about what allowing their desired effect in this case implies for your entire game. You can think of your decisions about this as a dial that determines how much power [[the hunters]] can get from everyday magic spells.
 
-If you think the desired effect is too powerful, tell them they would have to do it with by using a **[[big magic]]** ritual instead).
+If you think the desired effect is too powerful, tell them they would have to do it with by using a **[[Big Magic]]** ritual instead).
 
 [[Big Magic]]

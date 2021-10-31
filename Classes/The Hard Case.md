@@ -34,9 +34,9 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 ## SHARP 
 
-- [[Investigate a Mystery]] 
+- [[Investigate A Mystery]] 
 
-- [[Read a Bad Situation]] 
+- [[Read A Bad Situation]] 
 
 ## TOUGH 
 
@@ -51,7 +51,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 ## Hard Knocks 
 
  You had a long, harsh schooling to get as hard as you are. What was it? Pick one: 
- - **[[Bodyguard]]** : When you spend 1 [[Fire]] to [[protect someone]] , as well as +1 [[forward]], you may protect them even if they are out of reach or the [[harm]] they are about to suffer would be [[unstoppable]]. Get an ally group of old colleagues: good at protecting people. Get the “concealed [[armour]]” [[gear]] pick.
+ - **[[Bodyguard]]** : When you spend 1 [[Fire]] to [[Protect Someone]] , as well as +1 [[forward]], you may protect them even if they are out of reach or the [[harm]] they are about to suffer would be [[unstoppable]]. Get an ally group of old colleagues: good at protecting people. Get the “concealed [[armour]]” [[gear]] pick.
  - **Enforcer** : Spend 1 [[Fire]] to look so scary that it counts as a reason for manipulating someone. After you roll, if you terrify them, spend [[Fire]] 1-for-1 to increase your result. Gain an ally who can help with money, disguises, back you up, or get underworld gossip. Get the “bag of cash” [[gear]] pick.
  - **Secret Martial Art** : Spend [[Fire]] 1-for-1 to increase [[harm]] inflicted by your unarmed attacks. Your unarmed attacks gain [[ignore-armour]]. Get an ally, a [[mentor]] or student: good in a fight or philosophical discussion. Get the “ancient sword” [[gear]] pick.
  - **Military** : When you’re using military [[gear]] on a move, you may spend 2 [[Fire]] to boost the result level (a miss becomes a 7-9, 7-9 becomes 10+, or 10+ becomes 12+). You have an ally group, your old comrades: good in a fight or when you need help making preparations. Get the “battered assault rifle” [[gear]] pick.
@@ -111,7 +111,7 @@ To make your Hard Case, first pick a name. Then follow the instructions in this 
 
 - Horrific scarring, huge scars, burn scars, talon scars,     bite scars, ritual scarring, _____________ scars. 
 
-- Street wear, tactical wear, military wear, bike leathers,     [[sharp]] suit, utility wear, jeans and t-shirt, tracksuit, _____________. 
+- Street wear, tactical wear, military wear, bike leathers,     [[Sharp]] suit, utility wear, jeans and t-shirt, tracksuit, _____________. 
 
 ## Ratings, pick one line: 
 

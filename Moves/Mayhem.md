@@ -10,7 +10,7 @@ base class: [[The Summoned]]
 - Car, dumpster, boulder, etc: 4-[[harm]]
 
 - Bus, truck, wall, etc: 5-[[harm]]
-After you inflict [[harm]] with it (with a [[kick some ass]] move or otherwise), roll +[[harm]] inflicted. On a miss, you use it without trouble. On a 7-9, pick one side effect, and on a 10+ pick two:
+After you inflict [[harm]] with it (with a [[Kick Some Ass]] move or otherwise), roll +[[harm]] inflicted. On a miss, you use it without trouble. On a 7-9, pick one side effect, and on a 10+ pick two:
 
 - You hurt someone nearby as well as your target
 

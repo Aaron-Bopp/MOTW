@@ -6,7 +6,7 @@ The Secret Masters are the benevolent conspiracy fighting to make society (or th
 
 Sometimes, at [[the Keeper]]’s discretion, they proactively send you information, advice, or orders.
 
-When you **telepathically ask the Secret Masters for aid**, roll [[+Weird]]:
+When you **telepathically ask the Secret Masters for aid**, roll [[Weird]]:
 
 - On a *10+*, the Secret Masters reveal a key fact, clue, or technique that will help you.
 - On a *7-9*, the Secret Masters need you to complete a task for them. Once it is done, they reveal a key fact, clue, or technique that will help you.

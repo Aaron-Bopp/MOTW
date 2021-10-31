@@ -1,6 +1,6 @@
 ## Past Lives
 
-When you **channel your previous incarnations to discover something**, pose your question and roll [[+Weird]]:
+When you **channel your previous incarnations to discover something**, pose your question and roll [[Weird]]:
 
 - On a *10+*, a past life has something useful to offer. Ask [[the Keeper]] two of the questions below.
 - On a *7-9*, a past life has a little experience with this. Ask [[the Keeper]] one of the questions below.

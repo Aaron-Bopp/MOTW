@@ -26,10 +26,10 @@ When you reach 4 or more, mark [[unstable]].
 
 Whenever you roll and get a total of 6 or less, or when a move tells you to, mark an experience box.
 
-| [[CHARM]]              | [[COOL]]     | [[SHARP]]                 | [[TOUGH]]           | [[WEIRD]]     |
+| [[Charm]]              | [[Cool]]     | [[Sharp]]                 | [[Tough]]           | [[Weird]]     |
 | ------------------ | -------- | --------------------- | --------------- | --------- |
-| [[Act Under Pressure]] | [[Help Out]] | [[Investigate a Mystery]] | [[Kick Some Ass]]   | [[Use Magic]] |
-|                    |          | [[Read a Bad Situation]]  | [[Protect Someone]] |           |
+| [[Act Under Pressure]] | [[Help Out]] | [[Investigate A Mystery]] | [[Kick Some Ass]]   | [[Use Magic]] |
+|                    |          | [[Read A Bad Situation]]  | [[Protect Someone]] |           |
 
 ## Moves
 

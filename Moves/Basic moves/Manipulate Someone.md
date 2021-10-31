@@ -17,7 +17,7 @@ For another hunter:
 
 Here’s the most important thing to remember about the **manipulate someone** move: the hunter needs to offer something that makes the target willing to do what the hunter asks.
 
-Once you have given them a reason, **tell them what you want them to do** and roll [[+Charm]].
+Once you have given them a reason, **tell them what you want them to do** and roll [[Charm]].
 
 This move is used when you want someone to do something for you and they don’t want to do it. To get them to do what you’re asking you’ll need a good reason. What counts as a good reason depends on what you are asking for and your relationship with them.
 

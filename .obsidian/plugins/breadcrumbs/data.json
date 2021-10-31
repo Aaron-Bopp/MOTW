@@ -1,0 +1,63 @@
+{
+  "userHierarchies": [
+    {
+      "up": [
+        "Parent"
+      ],
+      "same": [
+        "Sibling"
+      ],
+      "down": [
+        "Child"
+      ]
+    }
+  ],
+  "indexNote": [
+    ""
+  ],
+  "CSVPaths": "",
+  "hierarchyNotes": [
+    "MOTWHierarchy.md"
+  ],
+  "hierarchyNoteDownFieldName": "Child",
+  "hierarchyNoteUpFieldName": "Parent",
+  "refreshIndexOnActiveLeafChange": false,
+  "altLinkFields": [],
+  "useAllMetadata": true,
+  "parseJugglLinksWithoutJuggl": false,
+  "dvWaitTime": 5000,
+  "refreshIntervalTime": 0,
+  "defaultView": true,
+  "showNameOrType": true,
+  "showRelationType": true,
+  "filterImpliedSiblingsOfDifferentTypes": false,
+  "rlLeaf": true,
+  "showTrail": true,
+  "limitTrailCheckboxStates": {
+    "Parent": true
+  },
+  "hideTrailFieldName": "hide-trail",
+  "trailOrTable": 3,
+  "gridDots": false,
+  "dotsColour": "#000000",
+  "gridHeatmap": false,
+  "heatmapColour": " #7f6df2",
+  "showAll": false,
+  "noPathMessage": "This note has no real or implied parents",
+  "trailSeperator": "→",
+  "respectReadableLineLength": true,
+  "limitWriteBCCheckboxStates": {
+    "Parent": true,
+    "Sibling": true,
+    "Child": true
+  },
+  "showWriteAllBCsCmd": false,
+  "visGraph": "Force Directed Graph",
+  "visRelation": "Parent",
+  "visClosed": "Real",
+  "visAll": "All",
+  "wikilinkIndex": true,
+  "aliasesInIndex": false,
+  "debugMode": false,
+  "superDebugMode": false
+}
