@@ -15,19 +15,19 @@ date updated: Sunday, September 19th 2021, 6:45:33 pm
 
 **Ratings, pick one line:**
 
-- [[Charm]]=0, [[Cool]]+1, [[Sharp]]+1, [[Tough]]–1, [[Weird]]+2 b [[Charm]]+1, [[Cool]]–1, [[Sharp]]+1, [[Tough]]=0, [[Weird]]+2 b [[Charm]]=0, [[Cool]]–1, [[Sharp]]+2, [[Tough]]=0, [[Weird]]+2 b [[Charm]]=0, [[Cool]]+1, [[Sharp]]+2, [[Tough]]–1, [[Weird]]+1 b [[Charm]]+1, [[Cool]]=0, [[Sharp]]+2, [[Tough]]–1, [[Weird]]+1
+- [[Charm]]=0, [[Cool]]+1, [[Sharp]]+1, [[Tough]]–1, [[Weird]]+2 
+- [[Charm]]+1, [[Cool]]–1, [[Sharp]]+1, [[Tough]]=0, [[Weird]]+2 
+- [[Charm]]=0, [[Cool]]–1, [[Sharp]]+2, [[Tough]]=0, [[Weird]]+2 
+- [[Charm]]=0, [[Cool]]+1, [[Sharp]]+2, [[Tough]]–1, [[Weird]]+1 
+- [[Charm]]+1, [[Cool]]=0, [[Sharp]]+2, [[Tough]]–1, [[Weird]]+1
 
 ## Moves
 
 You get all of the basic [[moves]], plus three Searcher [[moves]]. You get this one:
 
 - ![[First Encounter]]
-- ![[Cryptid Sighting]]
-- ![[Zone of Strangeness]]
-- ![[Psychic Event]]
-- ![[Strange Dangers]]
-- ![[Abduction]]
-- ![[Cosmic Insight]]
+
+Then pick two of these:
 - ![[Prepared to Defend]]
 - ![[Fellow Believer]]
 - ![[Guardian]]
@@ -37,13 +37,17 @@ You get all of the basic [[moves]], plus three Searcher [[moves]]. You get this 
 - ![[The Things I’ve Seen]]
 ## Gear
 
-You get a laptop, a car or motorcycle, a camera, binoculars, two sets of investigation tools, and one self-defence weapon. **Investigation tools, pick two:**
+You get a laptop, a car or motorcycle, a camera, binoculars, two sets of investigation tools, and one self-defence weapon. 
 
-- A bag of cameras & b Historical documents microphones. and witness reports
+**Investigation tools, pick two:**
 
-- Forensic tools. of strange events.
-
-- Ghost hunting tools. b Maps, blueprints, and b Scientific measuring tools. building reports for b Cryptid hunting [[gear]]. significant places.
+- A bag of cameras & microphones
+- Historical documents and witness reports  of strange events.
+- Forensic tools.
+- Ghost hunting tools. 
+- Maps, blueprints, and building reports for significant places.
+- Scientific measuring tools. 
+- Cryptid hunting [[gear]]. 
 
 **Self-defence [[weapons]], pick one:**
 
@@ -53,13 +57,14 @@ You get a laptop, a car or motorcycle, a camera, binoculars, two sets of investi
 
 - [[Small]] knife (1-[[harm]] [[hand]] [[messy]]).
 
-## Introductions
-
 - Martial arts training (1-[[harm]] [[hand]] [[innocuous]]).
 
 - Incapacitating spray  (0-[[harm]] [[hand]] irritating).
 
 - [[Heavy]] flashlight (1-[[harm]] [[hand]] [[innocuous]]).
+
+## Introductions
+
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
@@ -101,7 +106,7 @@ When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffere
 
 Okay bbb|bbbb Dying
 
-[[Unstable]]: b (Unstable injuries will worsen as time passes)
+[[Unstable]]: - (Unstable injuries will worsen as time passes)
 
 ## Leveling Up
 
@@ -113,18 +118,24 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 
 ## Improvements
 
-<table><colgroup><col style="width: 56%" /><col style="width: 43%" /></colgroup><thead><tr class="header"><th><p>b Get +1 [[Sharp]], max +3 b Get +1 [[Weird]], max +3 b Get +1 [[Charm]], max +2 b Get +1 [[Cool]], max +2 b Take another</p><p>Searcher move b Take another</p><blockquote><p>Searcher move</p></blockquote></th><th><p>b Gain an ally.</p><p>b Take a second <strong>[[first encounter]]</strong> move, based on a recent mystery. b Take a move from another playbook</p><p>b Take a move from another playbook.</p></th></tr></thead><tbody></tbody></table>
+- Get +1 [[Sharp]], max +3 
+- Get +1 [[Weird]], max +3 - Get +1 [[Charm]], max +2
+- Get +1 [[Cool]], max +2 - Take anotherSearcher move
+- Take anotherSearcher moveb Gain an ally.
+- Take a second [[first encounter]] move, based on a recent mystery.
+- Take a move from another playbook
+- Take a move from another playbook.
 
 After you have leveled up five times, you qualify for [[advanced improvements]] in addition to these. They’re below.
 
 ## Advanced Improvements
 
-- Get +1 to any b Mark two of the basic rating, max +3. [[moves]] as advanced.
+- Get +1 to any - Mark two of the basic rating, max +3. [[moves]] as advanced.
 
-- Change this hunter b Mark another two of the to a new type. basic [[moves]] as advanced.
+- Change this hunter - Mark another two of the to a new type. basic [[moves]] as advanced.
 
-- Create a second hunter to b Erase a used [[Luck]] mark play as well as this one. from your playbook.
+- Create a second hunter to - Erase a used [[Luck]] mark play as well as this one. from your playbook.
 
-- Retire this hunter to safety. b Erase a used [[Luck]] mark from your playbook.
+- Retire this hunter to safety. - Erase a used [[Luck]] mark from your playbook.
 
 - Resolve your [[First Encounter]]. [[The Keeper]] makes the next mystery about this event, and should try to answer all remaining questions about it during the mystery (although there are sure to be new threads to investigate after...)

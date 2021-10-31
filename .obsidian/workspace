@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOTWHierarchy.md",
+            "file": "Moves/Hunter Moves/Absolute Badass.md",
             "mode": "source"
           }
         }
@@ -47,6 +47,42 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5269e66d8d4517a0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9af3def0310f837d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfb450d44f9f26bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Moves/Hunter Moves/Absolute Badass.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -63,23 +99,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfb450d44f9f26bc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MOTWHierarchy.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "aa7326bd0133e02c",
             "type": "leaf",
             "state": {
@@ -94,9 +113,29 @@
               "type": "breadcrumbs-matrix",
               "state": {}
             }
+          },
+          {
+            "id": "9c203dca90047a10",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a09187cef2b21e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Moves/Hunter Moves/Absolute Badass.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,15 +143,15 @@
   },
   "active": "410268c909a7ff11",
   "lastOpenFiles": [
-    "MOTWHierarchy.md",
-    "Table of Contents.md",
-    "Solutions for Solo Gaming.md",
-    "README.md",
-    "Moves/Mayhem.md",
-    "Moves/Hearty constitution.md",
-    "Moves/Dark Master.md",
-    "Moves/Dark Negotiator.md",
-    "Moves/Confused.md",
-    "Moves/Ratings/Charm.md"
+    "Moves/Hunter Moves/Absolute Badass.md",
+    "Moves/Ratings/Cool.md",
+    "Moves/Basic moves/Alternate Weird Moves/Illuminated.md",
+    "Moves/Basic moves/Help Out.md",
+    "Moves/Basic moves/Act Under Pressure.md",
+    "Characters/Skylar.md",
+    "Moves/Basic moves/Kick Some Ass.md",
+    "Classes/The Searcher.md",
+    "Weapon Properties/intimate.md",
+    "MOTWHierarchy.md"
   ]
 }

@@ -50,8 +50,6 @@ You get all of the basic [[moves]], plus three Pararomantic [[moves]].
 You get this one:
 
 - ![[Supernatural Guide]]
-- ![[Bonding Time]]
-- ![[Dark Desires]]
 - ![[The Power of Love]]
 - ![[I Am Theirs And They Are Mine]]
 - ![[Monster Empathy]]
